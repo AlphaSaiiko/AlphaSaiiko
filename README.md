@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @AlphaSaiiko
-- 👀 I’m interested in video games, coding , sports , play music !
-- 🌱 I’m currently learning JAVA, HTML , CSS , PHP , JS , C 
-- 💞️ I’m looking to collaborate on new project !
-- 😄 Pronouns: him
+Mon métier ? Parler à des machines et les convaincre de faire ce que je veux. Parfois, ça se passe bien. D'autres fois, on se bat pour une parenthèse manquante. Vous trouverez les preuves de mes combats ici.
