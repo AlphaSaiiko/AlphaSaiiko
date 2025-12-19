@@ -21,7 +21,6 @@
 
 
 
-[![Docker](https://img.shihttps://github.com/AlphaSaiiko/AlphaSaiiko/tree/mainelds.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#)
@@ -44,7 +43,7 @@
 
 ### GitHub Stats
 
-[![AlphaSaiiko GitHub stats](https://github-readme-stats.vercel.app/api?username=jujedie&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujedie&langs_count=8&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
+[![AlphaSaiiko GitHub stats](https://github-readme-stats.vercel.app/api?username=jujedie&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaSaiiko&langs_count=8&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
 - ---
