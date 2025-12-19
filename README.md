@@ -46,11 +46,6 @@
 [![AlphaSaiiko GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaSaiiko&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaSaiiko&langs_count=8&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
-- ---
-[![AlphaSaiiko WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=3e7f2cb6-20a1-470e-b2e5-b278cf30502c&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![wakatime](https://wakatime.com/badge/user/3e7f2cb6-20a1-470e-b2e5-b278cf30502c.svg)](https://wakatime.com/@3e7f2cb6-20a1-470e-b2e5-b278cf30502c)
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlphaSaiiko" /> -->
 
 <!--
